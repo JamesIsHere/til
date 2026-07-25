@@ -8,7 +8,9 @@ The contract itself lives in [FORMAT.md](../FORMAT.md). The check is:
 python validate_post.py meta/validating-posts-before-pushing.md
 ```
 
-It verifies the path shape (lowercase kebab-case topic and slug), a single problem-phrased `# Title` on line 1, a first paragraph that can stand alone as a summary, body headings starting at `##`, no frontmatter, and no emojis. A failing post looks like this:
+It verifies the path shape (lowercase kebab-case topic and slug), a single problem-phrased `# Title` on line 1, a first paragraph that can stand alone as a summary, body headings starting at `##`, no frontmatter, and no emojis.
+
+Example only — the output below is invented to show the failure format; `git/two-h1s.md` does not exist and nothing in this repo is failing:
 
 ```
 FAIL git/two-h1s.md
