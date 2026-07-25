@@ -8,7 +8,6 @@ in [FORMAT.md](FORMAT.md).
 
 ## Index
 
-Hand-maintained for now; an auto-generated index replaces this section
-once the index generator lands.
-
-(no posts yet)
+<!-- index starts -->
+(generated on push by build_index.py)
+<!-- index ends -->
