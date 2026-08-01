@@ -9,11 +9,15 @@ in [FORMAT.md](FORMAT.md).
 ## Index
 
 <!-- index starts -->
-3 posts across 3 topics.
+4 posts across 4 topics.
 
 ## agents
 
 * [Staying oriented across multiple CLI agent sessions](agents/multiple-cli-agent-sessions.md) - 2026-08-01
+
+## life
+
+* [The whole success formula in two habits](life/two-habits-that-predict-success.md) - 2026-08-01
 
 ## meta
 
