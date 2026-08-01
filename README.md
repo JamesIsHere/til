@@ -9,7 +9,11 @@ in [FORMAT.md](FORMAT.md).
 ## Index
 
 <!-- index starts -->
-2 posts across 2 topics.
+3 posts across 3 topics.
+
+## agents
+
+* [Staying oriented across multiple CLI agent sessions](agents/multiple-cli-agent-sessions.md) - 2026-08-01
 
 ## meta
 
